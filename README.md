@@ -1,0 +1,1 @@
+# Pyhton-ile-ArkaPlanSilme
